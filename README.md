@@ -3,7 +3,7 @@ MATLAB implementations of minimal and optimal algorithms for Orthographic essent
 
 Please cite:
 
-Oskarsson, M. J Math Imaging Vis (2017). https://doi.org/10.1007/s10851-017-0753-1
+"Two-View Orthographic Epipolar Geometry: Minimal and Optimal Solvers" Oskarsson, M. J Math Imaging Vis (2017). https://doi.org/10.1007/s10851-017-0753-1
 
 Contains: 
 * test_orthogem.m - testscript for all solvers
